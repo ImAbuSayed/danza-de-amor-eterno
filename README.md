@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Danza de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-amor-eterno/) |
+| **Get License** | [Official Music Licensing for Danza de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vas conmigo
+> La luna de España es nuestro testigo
+> Con ese vestido marcando el camino
+> Bailando en la sombra, forjando el destino
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
