@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Danza de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-amor-eterno/) |
+| **Get License** | [Request Licensing for Danza de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bb0760b1cbac7dabf743e8c4675a53e6709bb1f5dc8c531b85f26df3252da4f2` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
